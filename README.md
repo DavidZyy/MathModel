@@ -1,5 +1,5 @@
 # MathModel
-ous teem's theis of Mathematical modeling contest.
+Our teem's thesis of Mathematical modeling contest.
 
 # 论文时间表
 
